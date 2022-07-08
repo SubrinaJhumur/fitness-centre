@@ -70,7 +70,62 @@
     font-size: 18px;
     color: white;
     border-radius: 5px;
-/* }
-.banner-right{
-    display:s;
-} */
+}
+.text4{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-top: 150px;
+}
+.section-tow{
+    margin-top: 70px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card1{
+    width: 250px;
+    height: 250px;
+    border: 1px solid gray;
+    text-align: center;
+    text-align: justify;
+    box-shadow: 8px 8px 16px gray;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 40px;
+    transition: .8ms;
+}
+.card1{
+    width: 250px;
+    height: 250px;
+    border: 1px solid gray;
+    text-align: center;
+    text-align: justify;
+    box-shadow: 8px 8px 16px gray;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 40px;
+    transition: .8ms;
+}
+.card1{
+    width: 250px;
+    height: 250px;
+    border: 1px solid gray;
+    text-align: center;
+    text-align: justify;
+    box-shadow: 8px 8px 16px gray;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 40px;
+    transition: .8ms;
+}
+.card1:hover{
+    border: 1px solid red;
+    margin-top: -30px;
+    transition: .8ms;
+}
+.bread{
+    width: 100px;
+    height: 100px;
+}
